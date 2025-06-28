@@ -1,3 +1,56 @@
+# 👋 Hi, I'm Noman Akram
+
+I'm a Computer Science graduate passionate about building modern, scalable web applications. I specialize in **Java (Spring Boot)** on the backend and **React/Next.js** on the frontend. I love clean code, efficient systems, and solving real-world problems through technology.
+
+---
+
+## 🔧 Tech Stack
+- **Backend**: Java, Spring Boot, REST APIs, MySQL, PostgreSQL
+- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS
+- **Tools**: Git, GitHub, Postman, VS Code, IntelliJ, Docker (basic), Figma (basic)
+- **Other**: Agile/Scrum, MVC Architecture, Responsive Design
+
+<!--
+---
+
+## 💻 Projects
+
+### 🍽️ Foodie Review Logger (Spring Boot + React)
+A personal app to log and review dishes from restaurants I visit. Features authentication, CRUD operations for reviews, and image uploads.
+
+> _Built with Spring Boot, React, PostgreSQL, REST API_
+
+➡️ [View Project Repo](https://github.com/yourusername/foodie-review-app)
+-->
+
+---
+
+### 📓 Portfolio Website
+A responsive personal portfolio built with Next.js and Tailwind to showcase my projects and contact info.
+
+➡️ [Live Demo](https://nomanakram.vercel.app)  
+➡️ [View Code](https://github.com/akram-n/portfolio)
+
+---
+
+## 📈 Currently Working On
+
+- Enhancing my **Spring Boot + React** full-stack apps
+- Practicing **DSA & LeetCode** for coding interviews
+- Learning advanced **Next.js App Router** and performance optimizations
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/akram-n/)
+- 🌐 [Portfolio](https://nomanakram.vercel.app)
+
+---
+
+⭐ **Looking for Software Developer roles** in Toronto or Remote. I'm open to full-time and internship opportunities. Let’s build something great together!
+
+<!--
 <h1 align="center">Hi 👋, I'm Noman Akram</h1>
 <h3 align="center">A passionate frontend developer residing in Canada</h3>
 
@@ -10,8 +63,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akram-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akram-n" height="30" width="40" /></a>
 
-
-<!--  
+  
 <a href="https://twitter.com/nomanxakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomanxakram" height="30" width="40" /></a>
 <a href="https://instagram.com/nomanxakram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomanxakram" height="30" width="40" /></a>
 </p>
